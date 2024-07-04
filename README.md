@@ -19,6 +19,7 @@ PS: 有中文评论才是我用过的
 - SPAdes: 细菌基因组常用
 - ALLPaths-LG
 - SOAPdenovo: 华大出品
+- Newbler: 针对454测序数据
 
 ## 三代contig组装
 
